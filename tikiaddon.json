@@ -1,0 +1,12 @@
+{
+	"name": "Skeleton Addon",
+	"package": "tikiorg/skeleton",
+	"version": "0.1",
+	"url": "http://dev.tiki.org/TikiAddonSkeleton",
+	"smarty": true,
+	"tiki": ["14"],
+	"depends": [
+	],
+	"api": {
+	}
+}
